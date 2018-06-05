@@ -1,0 +1,9 @@
+applications:
+- path: target/DashTest.zip
+  memory: 256M
+  buildpack: java_buildpack
+  instances: 1
+  domain: mybluemix.net
+  name: danblah2018
+  host: danblah2018
+  disk_quota: 1024M

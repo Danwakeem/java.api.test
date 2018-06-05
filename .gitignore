@@ -1,0 +1,9 @@
+/.apt_generated/
+target/*
+|target/GetStartedJava.war
+.settings
+.apt_generated
+.classpath
+.factorypath
+.project
+/target/
